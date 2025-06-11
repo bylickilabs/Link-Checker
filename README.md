@@ -1,6 +1,9 @@
 > 🔗 Ruby Link-Checker
 - Ein einfacher, effizienter URL-Statusprüfer, erstellt mit Ruby.
 
+|![link-checker1](https://github.com/user-attachments/assets/0153d4ed-f061-4ff3-864a-93963513bf22)|
+|---|
+
 <br>
 
 ---
