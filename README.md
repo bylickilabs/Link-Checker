@@ -133,4 +133,4 @@ ruby link_checker.rb andere_urls.txt
 <br>
 
 > 📄 Lizenz
-MIT [LICENSE](LICENSE)
+- MIT [LICENSE](LICENSE)
